@@ -48,7 +48,8 @@
 
 <br clear="both">
 
-<img src="C:\Users\Thinkpad T480\OneDrive\Documents\GitHub\Wajiha-Batool5\.github\workflows\snake.yml" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Batool5&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF"/>
+
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajiha-batool5&label=Profile%20views&color=0e75b6&style=flat" alt="wajiha-batool5" /> </p>
