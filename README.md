@@ -35,7 +35,7 @@
 
 ###
 
-## 🌐 Let's Connect & Collaborate!
+🌐 Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="C:\Users\Thinkpad T480\OneDrive\Documents\GitHub\Wajiha-Batool5\.github\workflows\snake.yml" alt="Snake animation" />
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajiha-batool5&label=Profile%20views&color=0e75b6&style=flat" alt="wajiha-batool5" /> </p>
