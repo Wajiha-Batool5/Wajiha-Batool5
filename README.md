@@ -1,5 +1,5 @@
 <h1 align="left">👋 Welcome to My World of Code & Creativity! 💻</h1>
-<img align="right" height="140" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="125" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-# About Me
+# About Me ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 <p align="left">💻 What I Do<br>Develop desktop applications using Java Swing, Qt, and Tkinter<br>Create intelligent solutions with Python (AI, NLP, and automation)<br>Design and implement database-driven systems<br>Explore network utilities like packet sniffers and monitoring tools<br>🎯 My Journey So Far<br>I’ve built projects like a Bank Management System, Library Management System, Electronic Health Record System, Language Translator, AI Chatbot, and Network Packet Sniffer and many more. Each project has strengthened my problem-solving skills and deepened my passion for coding.<br>📚 I'm currently learning AI, Data Science, ML and, Cyber Security<br>🎲 Fun fact: 💡 I think semicolons are just tiny speed bumps for code.</p>
 
@@ -25,10 +25,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Batool5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajiha-Batool5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajiha-Batool5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+# 🤖 Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Batool5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 # 🌐 Let's Connect & Collaborate!
 
