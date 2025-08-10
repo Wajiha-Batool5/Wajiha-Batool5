@@ -1,20 +1,18 @@
 <h1 align="left">👋 Welcome to My World of Code & Creativity! 💻</h1>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 <p align="left">My name is Wajiha Batool and I'm a passionate BSCS student and aspiring software developer, exploring the worlds of AI, Data Science, and Cyber Security, while turning innovative ideas into functional, user-friendly applications, from Pakistan</p>
 
-###
 
-<h2 align="left">About me</h2>
+# About Me
 
-###
-
-<p align="left">✨ Hi there! I’m Wajiha Batool, a BS Computer Science student passionate about building smart, user-friendly, and impactful software solutions. I have hands-on experience in C++, Java, Python, and MySQL, and I enjoy working on AI-powered tools, GUI-based systems, and innovative applications.<br>💻 What I Do<br>Develop desktop applications using Java Swing, Qt, and Tkinter<br>Create intelligent solutions with Python (AI, NLP, and automation)<br>Design and implement database-driven systems<br>Explore network utilities like packet sniffers and monitoring tools<br>🎯 My Journey So Far<br>I’ve built projects like a Bank Management System, Library Management System, Electronic Health Record System, Language Translator, AI Chatbot, and Network Packet Sniffer and many more. Each project has strengthened my problem-solving skills and deepened my passion for coding.<br>📚 I'm currently learning AI, Data Science, ML and, Cyber Security<br>🎲 Fun fact: 💡 I think semicolons are just tiny speed bumps for code.</p>
+<p align="left">💻 What I Do<br>Develop desktop applications using Java Swing, Qt, and Tkinter<br>Create intelligent solutions with Python (AI, NLP, and automation)<br>Design and implement database-driven systems<br>Explore network utilities like packet sniffers and monitoring tools<br>🎯 My Journey So Far<br>I’ve built projects like a Bank Management System, Library Management System, Electronic Health Record System, Language Translator, AI Chatbot, and Network Packet Sniffer and many more. Each project has strengthened my problem-solving skills and deepened my passion for coding.<br>📚 I'm currently learning AI, Data Science, ML and, Cyber Security<br>🎲 Fun fact: 💡 I think semicolons are just tiny speed bumps for code.</p>
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 
 ###
 
@@ -31,12 +29,7 @@
 </div>
 
 
-###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-###
-
-
-🌐 Let's Connect & Collaborate!
+# 🌐 Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -47,10 +40,7 @@
 
 ###
 
-
-
-
-🥠 Contribution Pacman Game
+# 🥠 Contribution Pacman Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wajiha-Batool5/Wajiha-Batool5/output/pacman-contribution-graph-dark.svg">
@@ -60,13 +50,13 @@
 
 ###
 
-🔥 GitHub Streak 🔥
+# 🔥 GitHub Streak 🔥
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Wajiha-Batool5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Wajiha-Batool5&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
