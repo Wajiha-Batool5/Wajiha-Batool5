@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wajiha-Batool5&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF"/>
+<img src="https://raw.githubusercontent.com/Wajiha-Batool5/Wajiha-Batool5/output/snake.svg" alt="Snake animation" />
 
 
 ###
