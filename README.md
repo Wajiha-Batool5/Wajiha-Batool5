@@ -25,8 +25,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wajiha-Batool5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajiha-Batool5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
 
 ###
 
-## 🌐 Let's Connect & Collaborate!
+🌐 Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -46,25 +46,31 @@
 
 ###
 
+🐍 Contribution Snake
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Wajiha-Batool5/Wajiha-Batool5/output/snake.svg" alt="Snake animation" />
+
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajiha-batool5&label=Profile%20views&color=0e75b6&style=flat" alt="wajiha-batool5" /> </p>
+🔥 GitHub Streak 🔥
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wajiha-batool5" alt="wajiha-batool5" /></a> </p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Wajiha-Batool5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Wajiha-Batool5&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wajiha-Batool5/Wajiha-Batool5/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wajiha-Batool5/Wajiha-Batool5/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wajiha-Batool5/Wajiha-Batool5/output/pacman-contribution-graph.svg">
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajiha-batool5&show_icons=true&locale=en&layout=compact" alt="wajiha-batool5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajiha-batool5&show_icons=true&locale=en" alt="wajiha-batool5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajiha-batool5&" alt="wajiha-batool5" /></p>
-
+###
