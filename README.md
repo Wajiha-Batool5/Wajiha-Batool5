@@ -1,11 +1,13 @@
 <h1 align="left">👋 Welcome to My World of Code & Creativity! 💻</h1>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="140" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 <p align="left">My name is Wajiha Batool and I'm a passionate BSCS student and aspiring software developer, exploring the worlds of AI, Data Science, and Cyber Security, while turning innovative ideas into functional, user-friendly applications, from Pakistan</p>
 
 ###
+
+# About Me
 
 <p align="left">💻 What I Do<br>Develop desktop applications using Java Swing, Qt, and Tkinter<br>Create intelligent solutions with Python (AI, NLP, and automation)<br>Design and implement database-driven systems<br>Explore network utilities like packet sniffers and monitoring tools<br>🎯 My Journey So Far<br>I’ve built projects like a Bank Management System, Library Management System, Electronic Health Record System, Language Translator, AI Chatbot, and Network Packet Sniffer and many more. Each project has strengthened my problem-solving skills and deepened my passion for coding.<br>📚 I'm currently learning AI, Data Science, ML and, Cyber Security<br>🎲 Fun fact: 💡 I think semicolons are just tiny speed bumps for code.</p>
 
